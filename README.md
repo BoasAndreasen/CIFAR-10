@@ -4,14 +4,9 @@ The project will classify the images in the CIFAR-10 dataset into 10 categories 
 
 Team members:
 
-Olly Wortley
-
-Boas Andreasen
-
-Jamie Hewison
-
-Tammy Yeung
-
-Rebecca Edmonds
-
-David Kayode
+Olly Wortley\
+Boas Andreasen\
+Jamie Hewison\
+Tammy Yeung\
+Rebecca Edmonds\
+David Kayode\
